@@ -11,7 +11,7 @@
 
             echo "Where would you like to say hello?" ;
 
-            echo <br> "Earth";
+            echo "Earth";
 
 
             ?>
