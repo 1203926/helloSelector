@@ -10,8 +10,8 @@
             echo        "Hello World";
 
             echo "Where would you like to say hello?" ;
-               <br>
-            echo <u>"Earth"</u>;
+
+            echo <br> "Earth";
 
 
             ?>
