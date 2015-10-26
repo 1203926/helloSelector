@@ -9,9 +9,9 @@
             <?php
             echo        "Hello World";
 
-            $myname = "John Snow";
-            $myage = 34;
-            echo "My name is" . $myname . "and I am " . $myage; 
+            echo "Where would you like to say hello?" /n /n;
+
+
 
             ?>
         </p>
