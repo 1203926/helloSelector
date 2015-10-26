@@ -11,9 +11,7 @@
 
             $myname = "John Snow";
             $myage = 34;
-            echo "My name is" . $myname . "and I am " . $myage;
-
-    
+            echo "My name is" . $myname . "and I am " . $myage; 
 
             ?>
         </p>
