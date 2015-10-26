@@ -9,8 +9,9 @@
             <?php
             echo        "Hello World";
 
-            echo "Where would you like to say hello?" /n /n;
-
+            echo "Where would you like to say hello?" ;
+               <br>
+            echo <u>"Earth"</u>;
 
 
             ?>
